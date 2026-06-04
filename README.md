@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yashasvi Sharma
 
 🎓 B.Tech CSE (AI & ML) Student at VIT Bhopal University  
-📊 CGPA: 8.64  
+📊 CGPA: 8.67  
 
 ---
 
@@ -17,7 +17,7 @@ I enjoy building software solutions and continuously improving my problem-solvin
 ---
 
 ## 🛠️ Skills
-- **Languages:** C++, Java, Python  
+- **Languages:** Python, Java, C++, HTML, CSS, Javascript  
 - **Core Areas:** Data Structures & Algorithms, OOP  
 - **Technologies:** Machine Learning
 - **Tools:** VS Code, Jupyter Notebook  
